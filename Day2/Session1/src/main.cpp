@@ -1,6 +1,6 @@
 // Development Plan:  Check off each step with an 'x' as you complete each one:
 // [x] Showed up to the workshop.
-// [ ] This file is open in VSCode.
+// [x] This file is open in VSCode.
 // [ ] View the simulated Arduino by opening the diagram.json file (shows up when PlatformIO and WokWi Simulator extensions are installed).
 // [ ] The Red LED is turned on.
 // [ ] The Green LED is also turned on.
